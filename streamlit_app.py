@@ -2,6 +2,7 @@ import pickle
 from pathlib import Path
 import plotly.graph_objects as go
 import plotly.express as px
+from plotly.subplots import make_subplots
 import altair as alt
 import numpy as np
 import pandas as pd
