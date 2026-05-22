@@ -1,5 +1,5 @@
 streamlit
-orange
+orange3
 plotly
 pandas
 numpy
